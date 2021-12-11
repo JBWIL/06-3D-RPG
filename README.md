@@ -1,11 +1,20 @@
-# 3D-Character
+# 06 3D RPG
+The 6th project for MSCH C220. An extremely simplistic 3D game.
 
-An animated 3D character that can be used in the 3D-RPG project.
+# Description
+An extremely simplistic 3D game. Score function was not working for an unknown reason but every other feature works properly. The music is made by me from scratch with some references to nintendo forest music. Could not get it to loop.
 
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+# References
+https://kenney.nl/assets/space-kit
+https://kenney.nl/assets/blaster-kit
+https://kenney.itch.io/kenney-character-assets
+https://ambientcg.com/view?id=Plastic010
+https://ambientcg.com/view?id=Metal032
+https://ambientcg.com/view?id=Metal033
+https://ambientcg.com/view?id=Metal034
 
 ## Implementation
-Created in Blender 2.9 and Godot 3.2
+Godot 3.2
 
 ## Created By
-BL-MSCH-C220-S21
+Jason Williams
